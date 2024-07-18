@@ -1,0 +1,34 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "latest",
+    "express": "latest",
+    "node-telegram-bot-api": "latest",
+    "mathjs": "latest",
+    "linkify-it": "latest",
+    "node-short-url-normal": "latest",
+    "isgd": "latest",
+    "vgd": "latest",
+    "node-cleanuri": "latest",
+    "node-url-shortener": "latest",
+    "tiny-url-generator": "latest",
+    "tinyurl": "latest",
+    "node-google-translate-skidz": "latest",
+    "gtts": "latest",
+    "uuid": "latest",
+    "node-fetch": "^2.6.2",
+    "ytdl-core": "latest",
+    "ejs": "latest",
+    "atob": "latest",
+    "body-parser": "latest",
+    "cors": "latest",
+    "util": "latest",
+    "rahad-all-downloader": "latest"
+  }
+}
